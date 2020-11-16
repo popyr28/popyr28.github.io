@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    font-family: "Nunito Sans";
+    color: black;
+}
+
+.btn-load{
+    background-color: #FF006F;
+    color: white;
+}
+
+.btn-load:hover{
+    background-color: #ff569f;
+    color: white;
+}
+
+h1{
+    font-weight: 600;
+}
+
+.nickname{
+    color: #FF006F;
+}
+
+.icon{
+    width: 35;
+    margin-right: 5;
+}
+
+.icon:hover{
+    width: 35;
+    margin-right: 5;
+}
